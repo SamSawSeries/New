@@ -1,0 +1,82 @@
+Privacy Policy
+
+Last updated: April 20, 2025
+
+Thank you for choosing Chats WhatsApp QR (the "App"). We respect your privacy and are committed to protecting your personal information. This Privacy Policy explains what data we collect, how we use it, how we share it, and your choices.
+
+1. Information We Collect
+
+1.1. User Inputs
+
+Phone Number: Entered to generate a personalized WhatsApp QR code. Used solely for QR creation and not stored permanently on our servers.
+
+Custom Text: Free-form text embedded in QR codes. Used only during generation; not retained beyond session, except when saved in local history.
+
+Channel/Group Link: WhatsApp group or channel invitation links you provide are embedded in QR codes. Not analyzed, shared, or indexed beyond generation.
+
+1.2. Generated QR Codes
+
+The QR code images you create are displayed in the App. You may share or save them via your device’s native interfaces.
+
+1.3. History Activity
+
+The App stores a local history (on your device only) of all generated QR codes and their input data for easy retrieval. This data is never transmitted to our servers.
+
+1.4. Advertising Identifiers & Usage Data
+
+Device & Ad IDs: To show ads, we or our third‑party ad partners may collect your Android Advertising ID and non‑personal device information (e.g., device model, OS version).
+
+App Usage Metrics: We may collect in‑App events (e.g., feature usage, session duration) strictly to measure ad performance and improve user experience. These metrics are aggregated and anonymized.
+
+2. How We Use Information
+
+QR Code Functionality: Your inputs (phone number, text, links) are used exclusively to generate QR code images.
+
+Local History: We save generated codes locally for your convenience.
+
+Advertising: We and our ad network partners use device/ad identifiers and usage data to deliver and optimize ads (including personalized ads based on your device settings). We do not directly tie these identifiers to personal identities.
+
+No Tracking Outside App: We do not track you across other apps or websites for marketing without your permission.
+
+3. Information Storage & Security
+
+Local Processing: Most of your input data and generated QR codes remain on your device. We do not transmit personal data to remote servers.
+
+Secure Storage: We recommend using your device’s built‑in security (lock screen, encryption) to protect locally stored history.
+
+Ad Data: Device identifiers and usage metrics collected for ads may be processed by our third‑party partners under their own secure protocols.
+
+4. Data Sharing & Disclosure
+
+Third‑Party Ad Networks: We partner with ad networks (e.g., Google AdMob). These networks may collect and use device identifiers, usage data, and other non‑personal information to serve and measure ads under their respective privacy policies.
+
+System Share: When you share a QR code, the recipient app handles the image under its own privacy terms.
+
+Legal Requirements: We may disclose data to comply with legal obligations or to protect our rights, with notice unless prohibited.
+
+5. Children’s Privacy
+
+Our App is not intended for children under 13. We do not knowingly collect personal information from children. If you believe a child under 13 has shared personal data, please contact us so we can delete it.
+
+6. Your Choices
+
+Clear History: You can delete your QR code history anytime via the App’s settings.
+
+Permissions: You control storage permissions for saving QR images.
+
+Ad Preferences: To disable personalized ads, adjust your device’s advertising ID settings (Settings → Google → Ads → Opt‑out of Ads Personalization).
+
+7. Changes to This Privacy Policy
+
+We may update this policy to reflect changes in our App or legal requirements. We will post updates in the App with a revised "Last updated" date.
+
+8. Contact Us
+
+If you have questions about this Privacy Policy, please reach out:
+
+Email: samsawseries@gmail.com
+
+
+
+Thank you for trusting Chats WhatsApp QR with your privacy.
+
